@@ -1,0 +1,1 @@
+# isThisWindowOpen-JS
